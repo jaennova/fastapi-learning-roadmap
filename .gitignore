@@ -2,3 +2,4 @@ __pycache__/
 .vscode/
 *.pyc
 *.env
+/src/part1-python-basics/code/practice/.idea/*
