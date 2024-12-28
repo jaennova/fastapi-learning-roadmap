@@ -48,7 +48,3 @@ Crea una clase `CuentaBancaria` donde el saldo sea un atributo privado (debe ten
 
 ### 10. **Polimorfismo en Animales**
 Crea una clase base llamada `Animal` con un método `hacer_sonido()`. Luego, crea clases derivadas `Perro`, `Gato` y `Vaca`, que sobrescriban el método `hacer_sonido()` para hacer un sonido específico de cada animal. Crea una lista de objetos de estos animales y haz que cada uno haga su sonido, usando un solo ciclo `for`.
-
----
-
-Estos ejercicios te ayudarán a mejorar tu comprensión de los principios fundamentales de la Programación Orientada a Objetos, como la creación de clases, la herencia, el polimorfismo, el encapsulamiento y los métodos estáticos.
