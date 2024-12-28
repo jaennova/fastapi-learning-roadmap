@@ -38,7 +38,3 @@ Escribe un programa que reciba un número entero y genere la tabla de multiplica
 
 ### 10. **Determinar el Número Mayor y Menor**
 Escribe un programa que reciba tres números y determine cuál es el mayor y cuál es el menor, utilizando condicionales `if`, `elif`, y `else`.
-
----
-
-Estos ejercicios te permitirán dominar el uso de las estructuras de control de flujo en Python y mejorar la lógica de toma de decisiones en tu código.
